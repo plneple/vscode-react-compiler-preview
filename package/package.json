@@ -14,8 +14,8 @@
   "contributes": {
     "commands": [
       {
-        "command": "vscode-react-compiler-preview.helloWorld",
-        "title": "Hello World"
+        "command": "vscode-react-compiler-preview.showPreview",
+        "title": "Preview React Compiler Output"
       }
     ]
   },
