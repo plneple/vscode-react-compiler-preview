@@ -3,12 +3,12 @@
   "publisher": "plneple",
   "displayName": "Preview React Compiler (Babel)",
   "description": "View the output of the react-compiler in VSCode",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "repository": {
     "url": "https://github.com/plneple/vscode-react-compiler-preview"
   },
   "engines": {
-    "vscode": "^1.94.0"
+    "vscode": "^1.93.0"
   },
   "categories": [
     "Programming Languages",
@@ -42,7 +42,7 @@
   "devDependencies": {
     "@types/mocha": "^10.0.9",
     "@types/node": "20.x",
-    "@types/vscode": "^1.94.0",
+    "@types/vscode": "^1.93.0",
     "@typescript-eslint/eslint-plugin": "^8.10.0",
     "@typescript-eslint/parser": "^8.7.0",
     "@vscode/test-cli": "^0.0.10",
